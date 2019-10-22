@@ -1,4 +1,5 @@
-import 'package:email_login/pages/login_page.dart';
+
+import 'package:email_login/pages/halawam_awal.dart';
 import 'package:flutter/material.dart';
 
 void main() => runApp(MyApp());
